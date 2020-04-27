@@ -18,3 +18,6 @@ while (!shutdownRequested) {
 // 代码的业务逻辑 }
 }
 ```
+
+
+线程安全性需要考虑先行发生原则                                                                                                                                          
